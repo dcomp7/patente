@@ -26,8 +26,9 @@ Muitas empresas tech preferem não patentar suas principais inovações para evi
 Assim como artigos científicos possuem natureza técnico-acadêmica, patentes possuem natureza técnico-jurídica, mas não é só isso, elas vão muito além da proteção em relação à concorrência. Uma patente transcende o aspecto técnico-jurídico em aspectos como:
 
 - **Sinalização ao mercado**: Demonstra capacidade de inovação, rigor metodológico e visão estratégica
+- **Argumento comercial**: É uma maneira de se diferenciar de concorrentes
 - **Abre portas**: Será lida por eventuais clientes, fornecedores, investidores etc.
-- **Ativo intangível**: Agrega valor mensurável à empresa em eventuais vendas ou fusões
+- **Ativo intangível**: Agrega valor à empresa
 - **Posicionamento**: Revela como a organização pensa, age e investiga problemas complexos
 
 ### A importância da revisão técnica
